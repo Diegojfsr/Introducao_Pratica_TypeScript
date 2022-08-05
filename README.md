@@ -70,7 +70,7 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
   Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha de aprendizado do <strong> Módulo 2 | HTML/CSS/JS </strong>. Durante o 
   <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
   Conteudos ministrados pelo Especialista: João Santos ( Software Engineer | Take Blip ) <br>
-  Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong></a>
+  Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong> </a>
  </em> 
  
 </p>

@@ -50,12 +50,10 @@ Esse projeto consiste em abordar o TypeScript de uma forma totalmente prática. 
 <li><a href="https://">  </a></li>
 
 </ul>
-
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
 <li><a href="https://">  </a></li>
 <li><a href="https://">  </a></li>
-
 </ul>
 
 
@@ -64,7 +62,6 @@ Esse projeto consiste em abordar o TypeScript de uma forma totalmente prática. 
 <p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
 
-
 <p dir="auto"> 
  <em>
   Projeto desenvolvido utilizando os conhecimentos adquiridos dentro da trilha de aprendizado do <strong> Módulo 2 | HTML/CSS/JS </strong>. Durante o 
@@ -72,5 +69,4 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
   Conteudos ministrados pelo Especialista: João Santos ( Software Engineer | Take Blip ) <br>
   Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong> </a>
  </em> 
- 
 </p>
